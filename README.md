@@ -1,4 +1,4 @@
-# Biblioteca_Bard_Google
+# Biblioteca de Python Bard_Google
 Uso de la biblioteca Bard de Python
 
 
