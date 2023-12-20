@@ -8,11 +8,9 @@ Es una herramienta útil para integrar Bard en aplicaciones Python, que requiere
 
 Para usar la biblioteca Bard para Python, primero debe instalar la biblioteca. 
 
-Puede instalar la biblioteca usando pip:
+Puede instalar la biblioteca usando pip: pip install bard
 
-pip install bard
-
-Funciones principales:
+# Funciones principales:
 
 generate() para generar texto
 
