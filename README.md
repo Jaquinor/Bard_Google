@@ -1,4 +1,4 @@
-# Biblioteca de Python Bard_Google
+# Biblioteca Bard de Python 
 
 La biblioteca Bard para Python, es una biblioteca de Python que permite interactuar con Bard, un LLM (Large Language Model) desarrollado por Google AI. 
 
